@@ -196,9 +196,6 @@ flowchart LR
  D --> F[ディスク書き込み量：時系列4]
 ```
 
-<img width="666" height="384" alt="image" src="https://github.com/user-attachments/assets/ae66112d-8421-448f-961d-65443c381e67" />
-
-
 VM2台について2種類のメトリックを個別監視する場合、合計4時系列となる。
 
 #### ディメンションとは
