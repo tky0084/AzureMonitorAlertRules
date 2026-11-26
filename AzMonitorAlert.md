@@ -1,4 +1,4 @@
-# Azure Monitor アラートルール
+# Azure Monitor アラートルールの活用について
 
 ## 1. アラートルールとは
 
